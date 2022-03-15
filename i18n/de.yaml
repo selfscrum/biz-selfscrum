@@ -1,0 +1,110 @@
+- id: socials
+  translation: Social
+  
+- id: social_media
+  translation: Social Media
+  
+- id: quick_links
+  translation: Links
+  
+- id: location_contact
+  translation: Standort und Kontakt
+  
+- id: recent_posts
+  translation: Letzte Posts von
+  
+- id: related_articles
+  translation: Verwandte Artikel
+  
+- id: view_listing
+  translation: Liste zeigen
+  
+- id: read_more
+  translation: Weiterlesen
+  
+- id: about_the_role
+  translation: Über die Rolle
+  
+- id: fname
+  translation: Vorname
+  
+- id: full_name
+  translation: Vollständiger Name
+  
+- id: lname
+  translation: Nachname
+  
+- id: name_re
+  translation: Dein Name ist erforderlich!
+  
+- id: email
+  translation: E-Mail-Adresse
+  
+- id: email_re
+  translation: Deine E-Mail ist erforderlich!
+  
+- id: upload_cv
+  translation: Lebenslauf hochladen
+  
+- id: cv_note
+  translation: uniquement doc, fichier pdf autorisé &amp; la taille du fichier sera inférieure à 2 Mb
+  
+- id: cv_re
+  translation: Dein Lebenslauf ist verpflichtend!
+  
+- id: apply_job
+  translation: Für den Job bewerben
+  
+- id: lets_meet
+  translation: Wir sollten uns treffen
+  
+- id: year
+  translation: Jahr
+  
+- id: location
+  translation: Ort
+  
+- id: company_size
+  translation: Unternehmensgröße
+  
+- id: send_a_message
+  translation: Sende eine Nachricht
+  
+- id: send_message
+  translation: Nachricht senden
+  
+- id: comment_re
+  translation: Dein Kommentar ist notwendig!
+  
+- id: your_message
+  translation: Deine Nachricht
+  
+- id: phone
+  translation: Telefon
+  
+- id: contact_us
+  translation: Nimm Kontakt zu uns auf
+  
+- id: get_in_touch
+  translation: Melde dich bei uns
+  
+- id: form_thanks_message
+  translation: Danke für deinen Beitrag!
+  
+- id: form_error_message
+  translation: Oh, es gab ein Problem beim Versand deines Formulars!
+  
+- id: min_read
+  translation: Min. Lesezeit
+  
+- id: monthly
+  translation: Monatlich abgerechnet
+  
+- id: yearly
+  translation: Jährlich abgerechnet
+  
+- id: month
+  translation: Monat
+  
+- id: year
+  translation: Jahr

@@ -1,0 +1,104 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "categories") (eq .Section "tags") }}
+
+<!-- strat of blog-details -->
+<section class="section-sm pt-0">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-lg-10 mb-5">
+        {{ with .Params.image }}
+        {{ if fileExists (add `assets/` .) }}
+        {{$img:= resources.Get . }}
+        {{$img:= $img.Resize "1020x "}}
+        {{$imgWebp:= $img.Resize "1020x webp"}}
+        <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$imgWebp.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+        {{end}}
+        {{end}}
+      </div>
+      <div class="col-lg-8">
+        <div class="mb-5">
+          <h2>{{.Title | markdownify}}</h2>
+          {{ $publishDate := .PublishDate.Format "Jan 02, 2006" }}
+          {{ with site.GetPage (string .Params.Author | urlize | lower) }}
+          <div class="d-flex align-items-center card-author mt-4">
+            <div class="user-image mr-3">
+              <a href="{{.RelPermalink}}" title="{{.Title}}">
+                {{ if .Params.image }}
+                {{ $img:= resources.Get (.Params.image) }}
+                {{ $img:= $img.Fill "70x70" }}
+                {{ $imgWebp:= $img.Fill "70x70 webp" }}
+                <img loading="lazy" decoding="async" class="rounded-circle" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+                {{ else if .Params.Email }}
+                <img loading="lazy" decoding="async" class="rounded-circle" src="https://www.gravatar.com/avatar/{{ md5 . }}?s=70&pg&d=identicon">
+                {{ end }}
+              </a>
+            </div>
+            <div class="user-info">
+              <p class="font-weight-500 mb-0 h5"><a href="{{.RelPermalink}}">{{ .Title }}</a></p>
+              <span>{{$publishDate}} - {{.ReadingTime}} {{i18n `min_read`}}</span>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+
+        <div class="content">
+          {{.Content}}
+        </div>
+
+      </div>
+
+
+      {{ if .Site.DisqusShortname }}
+      <div class="col-lg-8" data-aos="fade-in">
+        <!-- comments -->
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- end of blog-details -->
+
+<!-- start of blog-section -->
+<section class="section pt-5">
+  <div class="container">
+    <div class="row justify-content-center" data-aos="fade-in">
+      <div class="col-12">
+        <div class="section-title text-center">
+          <h2 class="title">{{i18n `related_articles`}}</h2>
+        </div>
+      </div>
+      
+      {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
+      {{ range first 2 $related }}
+      <div class="col-lg-5">
+        {{ .Render "article" }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- end of blog-section -->
+
+<!-- regular page -->
+{{ else }}
+{{ partial "components/page-header.html" . }}
+<section class="section-sm">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /regular page -->
+
+{{ end }}

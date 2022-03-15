@@ -1,0 +1,120 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Über uns"
+url = "about/"
+weight = 4
+
+[[main]]
+name = "How It Works"
+url = "how-it-works/"
+weight = 5
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 7
+
+[[main]]
+weight = 9
+name = "Info"
+hasChildren = true
+
+  [[main]]
+  parent = "Info"
+  name = "Career"
+  url = "career/"
+  weight = 1
+
+  [[main]]
+  parent = "Info"
+  name = "Pricing"
+  url = "pricing/"
+  weight = 2
+
+  [[main]]
+  parent = "Info"
+  name = "Blog Details"
+  url = "blog/post-1/"
+  weight = 3
+
+  [[main]]
+  parent = "Info"
+  name = "Author Single"
+  url = "author/abdullah-al-shifat/"
+  weight = 4
+
+  [[main]]
+  parent = "Info"
+  name = "Job Details"
+  url = "career/job-post-1/"
+  weight = 5
+
+  [[main]]
+  parent = "Info"
+  name = "Case Studies"
+  url = "case-studies/"
+  weight = 6
+
+  [[main]]
+  parent = "Info"
+  name = "Case Studies Details"
+  url = "case-studies/case-1/"
+  weight = 7
+
+  [[main]]
+  parent = "Info"
+  name = "Terms & Conditions"
+  url = "terms-and-conditions/"
+  weight = 8
+
+  [[main]]
+  parent = "Info"
+  name = "Changelog"
+  url = "changelog/"
+  weight = 9
+
+  [[main]]
+  parent = "Info"
+  name = "Sign In"
+  url = "signin/"
+  weight = 10
+
+  [[main]]
+  parent = "Info"
+  name = "Elements"
+  url = "elements/"
+  weight = 11
+  
+[[main]]
+name = "Kontakt"
+url = "contact/"
+weight = 15
+
+
+# footer menu
+[[footer]]
+name = "Über uns"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "How It Works"
+url = "how-it-works/"
+weight = 2
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 3
+
+[[footer]]
+name = "Changelog"
+url = "changelog/"
+weight = 4

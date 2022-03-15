@@ -1,0 +1,160 @@
+{{define "main"}}
+
+{{ partial "components/page-header.html" . }}
+
+{{with .Params.our_values}}
+{{if .enable}}
+<section class="section pb-0">
+  <div class="container">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-lg-5" data-aos="fade-up">
+        <div class="section-title mb-0">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+          <p>{{.description | markdownify}}</p>
+          {{if .button_link}}
+          <a href="{{.button_link}}" class="btn btn-primary mt-4">{{.button_label}}</a>
+          {{end}}
+        </div>
+      </div>
+      <div class="col-lg-5 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="pl-0 pl-lg-4">
+          {{ if fileExists (add `assets/` .image) }}
+          {{$img:= resources.Get .image }}
+          {{$img:= $img.Resize "560x"}}
+          <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.benefit}}
+{{if .enable}}
+<section class="section career">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="block">
+          <div class="section-title text-center mb-0">
+            <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+            <h2 class="title">{{.title | markdownify}}</h2>
+            <p>{{.description | markdownify}}</p>
+          </div>
+
+          <div class="row career-benefits mx-auto justify-content-around">
+            {{ $.Scratch.Set "counter" 0 }}
+            {{range .benefits}}
+            {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+            {{$n := $.Scratch.Get "counter"}}
+            <div class="col-lg-3 col-md-6">
+              <div class="career-benefits-item text-center">
+                <i class="{{.icon}} text-primary mb-2"></i>
+                <h4>{{.title | markdownify}}</h4>
+              </div>
+            </div>
+            {{if (modBool $n 3)}}<div class="col-lg-12 d-none d-lg-block"></div>{{end}}
+            {{end}}
+          </div>
+        </div>
+
+
+        <div class="has-circle has-bg-anim" data-aos="fade-in">
+          <span class="circle-1 ratio-32"></span>
+          <span class="circle-2 ratio-37"></span>
+          <span class="circle-3 ratio-20"></span>
+          <span class="circle-4 ratio-47"></span>
+          <span class="circle-5 ratio-37"></span>
+          <span class="circle-6 ratio-20"></span>
+          <span class="circle-7 ratio-20"></span>
+          <span class="circle-8 ratio-37"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.office_gallery}}
+{{if .enable}}
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12" data-aos="fade-up">
+        <div class="section-title text-center">
+          <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+          <h2 class="title">{{.title | markdownify}}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center" data-aos="fade-up">
+      <div class="col-lg-10">
+        <div class="row justify-content-center">
+          {{range .images}}
+          <div class="col-lg-{{.width}} col-md-4 col-sm-6 mt-4 {{.custom_class}}">
+            {{ if fileExists (add `assets/` .image) }}
+            {{$img:= resources.Get .image }}
+            <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$img.RelPermalink}}" alt="gallery image">
+            {{end}}
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{with .Params.open_position}}
+{{if .enable}}
+<section id="open-position" class="section career pt-0">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="block">
+          <div class="section-title text-center">
+            <p class="text-uppercase">{{.subtitle | markdownify}}</p>
+            <h2 class="title">{{.title | markdownify}}</h2>
+          </div>
+
+          <div class="row justify-content-center pt-4">
+            <div class="col-lg-9">
+              <div class="row justify-content-center">
+                {{range where site.RegularPages "Section" "career"}}
+                <div class="col-md-5" data-aos="fade-up">
+                  <div class="listing-item bg-white text-center mb-4">
+                    <h3 class="mb-2 font-weight-bold">{{.Title | markdownify}}</h3>
+                    <h6 class="text-black-800 mb-3">{{.Params.job_nature | markdownify}}</h6>
+                    <a href="{{.RelPermalink}}" class="h5 text-primary stretched-link">{{i18n `view_listing`}}<i class="las la-angle-right ml-1"></i></a>
+                  </div>
+                </div>
+                {{end}}
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="has-circle has-bg-anim" data-aos="fade-in">
+          <span class="circle-1 ratio-32"></span>
+          <span class="circle-2 ratio-37"></span>
+          <span class="circle-3 ratio-20"></span>
+          <span class="circle-4 ratio-47"></span>
+          <span class="circle-5 ratio-37"></span>
+          <span class="circle-6 ratio-20"></span>
+          <span class="circle-7 ratio-20"></span>
+          <span class="circle-8 ratio-37"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+{{end}}

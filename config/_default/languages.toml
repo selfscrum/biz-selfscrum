@@ -1,0 +1,19 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "(C) 2022 SELFSCRUM. All Rights Reserved."
+
+
+
+################################### German language #####################################
+[de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/deutsch"
+weight = 1
+# copyright
+copyright = "(C) 2022 SELFSCRUM. Alle Rechte vorbehalten."
