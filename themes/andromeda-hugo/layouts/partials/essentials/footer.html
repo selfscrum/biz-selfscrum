@@ -82,19 +82,9 @@
           <p class="mb-0">{{site.Params.footer_info | markdownify}}</p>
         </div>
       </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 mt-5 mt-sm-0" data-aos="fade-up" data-aos-delay="50">
+      <div class="col-lg-2 col-md-6 col-sm-6 mt-5 mt-sm-0" data-aos="fade-up" data-aos-delay="50">
         <div class="footer-widget">
           <h4 class="mb-4">{{i18n `socials`}}</h4>
-
-          {{with site.Params.contact_info.email}}
-          <ul class="footer-links list-unstyled mb-4">
-            {{range first 1 .}}
-            {{if .}}
-            <li><a href="mailto:{{.}}">{{.}}</a></li>
-            {{end}}
-            {{end}}
-          </ul>
-          {{end}}
 
           {{ with site.Params.social}}
           <ul class="social-links list-inline">
@@ -122,6 +112,16 @@
       <div class="col-lg-3 col-md-6 col-sm-6 mt-5 mt-lg-0" data-aos="fade-up" data-aos-delay="150">
         <div class="footer-widget">
           <h4 class="mb-4">{{i18n `location_contact`}}</h4>
+
+          {{with site.Params.contact_info.email}}
+          <ul class="footer-links list-unstyled">
+            {{range first 1 .}}
+            {{if .}}
+            <li><a href="mailto:{{.}}">{{.}}</a></li>
+            {{end}}
+            {{end}}
+          </ul>
+          {{end}}
 
           {{with site.Params.contact_info}}
           <ul class="footer-links list-unstyled">

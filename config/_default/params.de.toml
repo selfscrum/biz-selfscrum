@@ -27,9 +27,9 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = "Blücherstraße 14, 26603 Aurich"
-phone = ["+40 151 5989 1333"]
-email = ["info@selfscrum.org"]
+address = ""
+phone = ["+49 151 5989 1333"]
+email = ["hello@selfscrum.org"]
 
 # imaging processing
 [imaging]

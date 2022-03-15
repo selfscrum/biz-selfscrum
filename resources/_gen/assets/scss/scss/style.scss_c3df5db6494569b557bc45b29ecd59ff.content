@@ -259,7 +259,7 @@ body {
   left: 0;
   top: 0;
   z-index: -2;
-  /*    background-color: rgba($primary-color, .1);*/
+  /* mja    background-color: rgba($primary-color, .1);*/
   background-color: rgba(24, 191, 239, 0.1);
   transform: scale(0);
   border-radius: 1.8rem;
@@ -268,7 +268,7 @@ body {
 .has-bg-anim.aos-animate::before {
   transform: scale(1);
   background-color: rgba(24, 191, 239, 0.05);
-  /*background-color: rgba($primary-color, .05);*/ }
+  /* mja background-color: rgba($primary-color, .05);*/ }
 
 .social-links a {
   font-size: 1.125rem;
