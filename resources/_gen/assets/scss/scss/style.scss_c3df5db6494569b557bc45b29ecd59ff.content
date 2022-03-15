@@ -776,9 +776,6 @@ header {
         padding: 5px 0 0.625rem 0; } }
   header.header-unpinned {
     transform: translateY(calc(-100% - 5px)); }
-  @media (max-width: 767px) {
-    header .navbar-brand img {
-      height: 1.8rem; } }
   @media (max-width: 400px) {
     header .navbar-brand {
       width: 100%;

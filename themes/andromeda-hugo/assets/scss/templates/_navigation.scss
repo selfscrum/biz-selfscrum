@@ -46,7 +46,6 @@ header {
   .navbar-brand {
     @include tablet {
       img {
-        height: 1.8rem;
       }
     }
     @include mobile-xs {
