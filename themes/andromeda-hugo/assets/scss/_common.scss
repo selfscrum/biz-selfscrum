@@ -164,6 +164,54 @@ body {
   position: relative;
 
   span {
+    position: absolute;
+    background-color: rgba($primary-color, .15);
+    border-radius: 50%;
+
+    &.fill {
+      background-color: $primary-color;
+      opacity: .9
+    }
+
+    &.ratio-20 {
+      height: 1.25rem;
+      width: 1.25rem
+    }
+
+    &.ratio-32 {
+      height: 2rem;
+      width: 2rem
+    }
+
+    &.ratio-37 {
+      height: 2.31rem;
+      width: 2.31rem
+    }
+
+    &.ratio-47 {
+      height: 2.9rem;
+      width: 2.9rem
+    }
+
+    &.ratio-62 {
+      height: 3.8rem;
+      width: 3.8rem
+    }
+
+    &.ratio-65 {
+      height: 4.06rem;
+      width: 4.06rem
+    }
+
+    &.ratio-73 {
+      height: 4.5rem;
+      width: 4.5rem
+    }
+
+    &.ratio-85 {
+      height: 5.3rem;
+      width: 5.3rem
+    }
   }
 }
 
