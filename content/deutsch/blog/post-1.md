@@ -1,7 +1,7 @@
 ---
 date: "2021-07-14"
 title: "Hallo hier aber"
-image: "bild_von_ios.jpg"
+image: "blog/bild_von_ios.jpg"
 author: "Abdullah Al Shifat"
 draft: false
 ---

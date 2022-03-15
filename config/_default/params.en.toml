@@ -1,12 +1,12 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "favicon.png"
 # logo
-logo = "images/logo.svg"
+logo = "logo.png"
 # use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "190x"
 # logo text will only show when logo is missing.
-logo_text = "Andromeda"
+logo_text = "SELFSCRUM"
 # image gallery shortcode
 image_gallery = true
 
