@@ -50,7 +50,7 @@ link = "signup/"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["SELFSCRUM", "Lernen", "Alternative Schule", "Selbstbestimmt"]
-description = "An innovative Operating System for alternative schools."
+description = "An Innovative Operating System for Alternative Schools"
 author = "SELFSCRUM"
 image = "images/og-image.jpg" # this image will be used as fallback if a page has no image of its own
 

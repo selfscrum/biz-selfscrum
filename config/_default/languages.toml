@@ -1,5 +1,6 @@
 ################################### English language #####################################
 [en]
+title = "An Innovative Operating System for Alternative Schools"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -11,6 +12,7 @@ copyright = "(C) 2022 SELFSCRUM. All Rights Reserved."
 
 ################################### German language #####################################
 [de]
+title = "Ein Lern-, Organisations- und Betriebssystem für alternative Schulen"
 languageName = "De"
 languageCode = "de-de"
 contentDir = "content/deutsch"

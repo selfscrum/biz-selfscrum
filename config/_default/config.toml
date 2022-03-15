@@ -1,6 +1,5 @@
 ######################## default configuration ####################
 baseURL = "https://selfscrum.org/"
-title = "Ein Lern-, Organisations- und Betriebssystem für alternative Schulen"
 theme = "andromeda-hugo"
 # post pagination
 paginate = "6" # see https://gohugo.io/extras/pagination/
