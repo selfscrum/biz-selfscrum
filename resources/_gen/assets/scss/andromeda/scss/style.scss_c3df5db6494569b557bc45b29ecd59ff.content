@@ -266,7 +266,9 @@ body {
 
 .has-bg-anim.aos-animate::before {
   transform: scale(1);
-  background-color: rgba(254, 96, 25, 0.05); }
+/*  background-color: rgba(254, 96, 25, 0.05); */
+  background-color: rgba(5, 100, 120, 0.1);
+  }
 
 .social-links a {
   font-size: 1.125rem;
@@ -286,7 +288,8 @@ body {
   position: relative; }
   .has-circle span {
     position: absolute;
-    background-color: rgba(254, 96, 25, 0.15);
+/* mja    background-color: rgba(254, 96, 25, 0.15);*/
+    background-color: rgba(5, 100, 120, 0.15);
     border-radius: 50%; }
     .has-circle span.fill {
       background-color: #FE6019;

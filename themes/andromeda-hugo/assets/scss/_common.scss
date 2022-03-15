@@ -63,7 +63,7 @@ body {
   margin-bottom: 3.12rem;
 
   .title {
-    text-transform: capitalize;
+/* mja    text-transform: capitalize; */
     margin-bottom: 2.5rem;
     position: relative;
     line-height: 1.3;
@@ -125,7 +125,8 @@ body {
     left: 0;
     top: 0;
     z-index: -2;
-    background-color: rgba($primary-color, .1);
+/* mja    background-color: rgba($primary-color, .1);*/
+    background-color: rgba($border-color, .1);
     transform: scale(0);
     border-radius: 1.8rem;
     transition: 1.5s cubic-bezier(.105, .84, .44, 1);
@@ -133,7 +134,8 @@ body {
 
   &.aos-animate::before {
     transform: scale(1);
-    background-color: rgba($primary-color, .05);
+    background-color: rgba($border-color, .05);
+    /* mja background-color: rgba($primary-color, .05);*/
   }
 }
 
@@ -553,7 +555,7 @@ body {
       }
 
       a {
-        text-transform: capitalize;
+/* mja        text-transform: capitalize; */
         padding: 0.5rem 2rem;
         border: 1px solid $border-color;
         border-radius: 0px;
@@ -589,12 +591,12 @@ body {
     }
 
     h2 {
-      text-transform: capitalize;
+/* mja      text-transform: capitalize; */
     }
 
     p strong {
       font-size: 1rem;
-      text-transform: capitalize;
+/* mja     text-transform: capitalize; */
       margin-right: 1.5rem;
       font-weight: 400;
       color: $black;
@@ -629,7 +631,7 @@ body {
     font-size: 1.125rem;
     font-weight: 600;
     color: lighten($black, 4.509);
-    text-transform: capitalize;
+/* mja   text-transform: capitalize; */
     padding: 0 2rem;
     border: 0;
     background-color: transparent;

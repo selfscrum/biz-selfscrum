@@ -216,7 +216,7 @@ body {
 .section-title {
   margin-bottom: 3.12rem; }
   .section-title .title {
-    text-transform: capitalize;
+    /* mja    text-transform: capitalize; */
     margin-bottom: 2.5rem;
     position: relative;
     line-height: 1.3; }
@@ -259,14 +259,16 @@ body {
   left: 0;
   top: 0;
   z-index: -2;
-  background-color: rgba(163, 80, 0, 0.1);
+  /*    background-color: rgba($primary-color, .1);*/
+  background-color: rgba(24, 191, 239, 0.1);
   transform: scale(0);
   border-radius: 1.8rem;
   transition: 1.5s cubic-bezier(0.105, 0.84, 0.44, 1); }
 
 .has-bg-anim.aos-animate::before {
   transform: scale(1);
-  background-color: rgba(163, 80, 0, 0.05); }
+  background-color: rgba(24, 191, 239, 0.05);
+  /*background-color: rgba($primary-color, .05);*/ }
 
 .social-links a {
   font-size: 1.125rem;
@@ -541,7 +543,7 @@ body {
       .content .nav.nav-tabs li.active a {
         background-color: #A35000; }
       .content .nav.nav-tabs li a {
-        text-transform: capitalize;
+        /* mja        text-transform: capitalize; */
         padding: 0.5rem 2rem;
         border: 1px solid #18BFEF;
         border-radius: 0px;
@@ -564,10 +566,10 @@ body {
       .content .tab-content .tab-pane p:not(:last-child) {
         margin-bottom: 1.25rem; }
     .content .tab-content h2 {
-      text-transform: capitalize; }
+      /* mja      text-transform: capitalize; */ }
     .content .tab-content p strong {
       font-size: 1rem;
-      text-transform: capitalize;
+      /* mja     text-transform: capitalize; */
       margin-right: 1.5rem;
       font-weight: 400;
       color: #000000; }
@@ -588,7 +590,7 @@ body {
     font-size: 1.125rem;
     font-weight: 600;
     color: #0b0b0b;
-    text-transform: capitalize;
+    /* mja   text-transform: capitalize; */
     padding: 0 2rem;
     border: 0;
     background-color: transparent;
