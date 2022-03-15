@@ -4,7 +4,7 @@
   
 [build.environment]
   HUGO_VERSION = "0.87.0"
-  HUGO_THEME = "andromeda"
+  HUGO_THEME = "andromeda-hugo"
   HUGO_BASEURL = "/"
 
 [[headers]]
