@@ -92,8 +92,8 @@ button = "I Accept"
 # call-to-action
 [cta]
 enable = true
-title = "Helping teams in the world with focus"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+title = "Learn Self-determined Learning"
+content = "Online and global, from 8 years on towards your personal skill set."
 button = "Download The Theme"
 button_link = "/"
 

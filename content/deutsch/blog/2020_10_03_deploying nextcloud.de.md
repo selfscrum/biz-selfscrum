@@ -13,7 +13,7 @@ icon = 'fa-user-cog'
 
 .
 
-Schon lange liegt bei mir Nextcloud als zu betrachtende Kommunikationslösung im Backlog. Immer wieder kam was dazwischen - nun habe ich einen echten Anwendungsfall. Der [Git for Kids](https://git-for-kids.de) Learning Circle ist das erste Mal gestartet und hat außer zoom noch nicht so richtig eine Kommunikationsplattform. Was liegt da näher, als endlich einmal Nextcloud zu testen?
+Schon lange liegt bei mir Nextcloud als zu betrachtende Kommunikationslösung im Backlog. Immer wieder kam was dazwischen - nun habe ich einen echten Anwendungsfall. Der Git for Kids Learning Circle ist das erste Mal gestartet und hat außer zoom noch nicht so richtig eine Kommunikationsplattform. Was liegt da näher, als endlich einmal Nextcloud zu testen?
 
 Angesichts der letzten Datenschutz-Rechtssprechung ist auch wieder klar geworden, dass _wir_ uns bewegen müssen, wir als Consumer der großen Plattformen. Solange ein profitabler Markt da ist, wird Rechtsprechung alleine keinen Wandel hervorrufen. Aus diesem Grund -und weil Community-Plattformen ja immer besonders viel mit persönlichen Daten zu tun haben- habe ich beschlossen, dieses Mal nicht in Richtung AWS zu schauen, sondern einen deutschen Cloud Provider zu nutzen. 
 

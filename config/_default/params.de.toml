@@ -92,8 +92,8 @@ button = "Einverstanden."
 # call-to-action
 [cta]
 enable = true
-title = "Hilfe zum selbstbestimmten Lernen"
-content = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+title = "Lerne selbstbestimmtes Lernen"
+content = "Entwickle deine persönlichen Fähigkeiten weiter, online und global. Ab 8 Jahren."
 button = "Jetzt mehr erfahren"
 button_link = "/"
 
