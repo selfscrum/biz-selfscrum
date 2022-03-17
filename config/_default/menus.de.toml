@@ -9,10 +9,10 @@ weight = 1
 [[main]]
 name = "Über uns"
 url = "about/"
-weight = 4
+weight = 8
 
 [[main]]
-name = "How It Works"
+name = "Wie funktioniert's?"
 url = "how-it-works/"
 weight = 5
 
@@ -23,71 +23,71 @@ weight = 7
 
 [[main]]
 weight = 9
-name = "Info"
+name = "Infos"
 hasChildren = true
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Career"
   url = "career/"
   weight = 1
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Pricing"
   url = "pricing/"
   weight = 2
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Blog Details"
   url = "blog/post-1/"
   weight = 3
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Author Single"
   url = "author/abdullah-al-shifat/"
   weight = 4
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Job Details"
   url = "career/job-post-1/"
   weight = 5
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Case Studies"
   url = "case-studies/"
   weight = 6
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Case Studies Details"
   url = "case-studies/case-1/"
   weight = 7
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Terms & Conditions"
   url = "terms-and-conditions/"
   weight = 8
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Changelog"
   url = "changelog/"
   weight = 9
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Sign In"
   url = "signin/"
   weight = 10
 
   [[main]]
-  parent = "Info"
+  parent = "Infos"
   name = "Elements"
   url = "elements/"
   weight = 11
@@ -105,7 +105,7 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "How It Works"
+name = "Wie funktioniert's?"
 url = "how-it-works/"
 weight = 2
 
