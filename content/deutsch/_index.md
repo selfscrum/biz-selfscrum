@@ -43,7 +43,7 @@ features:
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -59,7 +59,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonial"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
