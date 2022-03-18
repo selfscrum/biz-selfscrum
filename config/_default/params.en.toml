@@ -101,7 +101,7 @@ button_link = "/"
 [[social]]
 title = "AndromedaTweet"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
-link = "@selfscrum"
+link = "https://twitter.com/@selfscrum"
 
 [[social]]
 title = "AndromedaIn"

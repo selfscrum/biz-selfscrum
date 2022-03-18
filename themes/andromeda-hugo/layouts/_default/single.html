@@ -8,12 +8,14 @@
   <div class="container">
     <div class="row justify-content-center" data-aos="fade-in">
       <div class="col-lg-10 mb-5">
+        {{ if not .Params.avoid_image }}
         {{ with .Params.image }}
         {{ if fileExists (add `assets/` .) }}
         {{$img:= resources.Get . }}
         {{$img:= $img.Resize "1020x "}}
         {{$imgWebp:= $img.Resize "1020x webp"}}
         <img loading="lazy" decoding="async" class="w-100 rounded-lg" src="{{$imgWebp.RelPermalink}}" alt="blog-post" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+        {{end}}
         {{end}}
         {{end}}
       </div>
