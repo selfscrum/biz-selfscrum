@@ -131,6 +131,9 @@ h1,
   z-index: 1;
   overflow: hidden;
   border: 0; }
+  @media (max-width: 575px) {
+    .btn {
+      padding: 0.375rem 0.875rem; } }
   .btn:active, .btn:focus {
     box-shadow: none !important; }
   .btn.btn-sm {
@@ -213,6 +216,46 @@ body {
   .section-sm {
     padding: 4.3rem 0; }
 
+.heroheader img {
+  vertical-align: middle; }
+
+.heroheader .herotext {
+  vertical-align: middle;
+  bottom: 15%;
+  position: absolute;
+  width: 60%;
+  right: 0;
+  padding: 1rem 1rem 0.5rem 1rem;
+  margin-right: 0.25rem; }
+  @media (max-width: 575px) {
+    .heroheader .herotext {
+      bottom: 5%; } }
+/* mja */
+.heroheader .herotext h1 {
+  padding: 0.5rem 0.5rem 0 0.5rem;
+  font-size: 0.8rem !important;
+  font-weight: 1200 !important; }
+  @media (min-width: 400px) {
+    .heroheader .herotext h1 {
+      font-size: 1.2rem !important; } }
+  @media (min-width: 575px) {
+    .heroheader .herotext h1 {
+      font-size: 1.5rem !important; } }
+  @media (min-width: 767px) {
+    .heroheader .herotext h1 {
+      font-size: 1.8rem !important; } }
+  @media (min-width: 991px) {
+    .heroheader .herotext h1 {
+      font-size: 3rem !important; } }
+  @media (min-width: 1200px) {
+    .heroheader .herotext h1 {
+      font-size: 3.7rem !important; } }
+.heroheader .herotext a {
+  font-size: 0.8rem !important; }
+  @media (min-width: 575px) {
+    .heroheader .herotext a {
+      font-size: 1rem !important; } }
+/* eomja */
 .section-title {
   margin-bottom: 3.12rem; }
   .section-title .title {

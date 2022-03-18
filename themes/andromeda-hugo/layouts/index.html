@@ -5,22 +5,22 @@
   <div class="container-xxl">
     <div class="row text-center">
       <div class="col-12">
-        <div class="block row justify-content-center no-gutters" data-aos="fade-up">
-          <div class="col-lg-10 px-0 px-xl-4" data-rellax-speed="-3">
-            <h1 class="mb-4" data-aos="fade-up">{{.title | markdownify}}</h1>
-            <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{.button}}</a>
-          </div>
-        </div>
 
-        {{with .image}}
+
         <div class="banner-image" data-aos="fade-up" data-aos-delay="00">
           <div class="row justify-content-center">
             <div class="col-lg-10">
-              {{ partial "images/image.html" (dict "Src" . )}}
+              <div class = "heroheader">
+              {{ partial "images/image.html" (dict "Src" .image )}}
+                  <div class="herotext" >
+                    <h1 class="mb-4" data-aos="fade-up">{{.title | markdownify}}</h1>
+                    <a href="{{.button_link}}" class="btn btn-primary" data-aos="fade-up" data-aos-delay="200">{{.button}}</a>
+                  </div>
+              </div>
             </div>
           </div>
         </div>
-        {{end}}
+
 
 <!-- mja
         <div class="has-circle">

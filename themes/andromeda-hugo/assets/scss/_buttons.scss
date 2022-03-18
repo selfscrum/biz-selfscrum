@@ -9,7 +9,10 @@
 	z-index: 1;
 	overflow: hidden;
 	border: 0;
-	
+	@media (max-width: 575px) {
+		padding: 0.375rem 0.875rem;
+	}
+		
 	&:active,
 	&:focus {
 		box-shadow: none !important;

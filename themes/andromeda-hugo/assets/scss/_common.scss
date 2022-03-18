@@ -59,6 +59,60 @@ body {
   }
 }
 
+.heroheader {
+}
+
+.heroheader img {
+  vertical-align: middle;
+}
+
+.heroheader .herotext {
+  vertical-align: middle;
+  bottom: 15%;
+  position: absolute;
+  width:60%;
+  right: 0;
+  padding: 1rem 1rem 0.5rem 1rem;
+  margin-right: 0.25rem;
+  @media (max-width: 575px) {
+    bottom: 5%;
+  }
+}
+
+/* mja */
+.heroheader .herotext h1 {
+
+  padding: 0.5rem 0.5rem 0 0.5rem;
+  font-size: .8rem!important;
+  font-weight: 1200!important;
+
+  @media (min-width: 400px) {
+    font-size: 1.2rem!important;
+  }
+  @media (min-width: 575px) {
+    font-size: 1.5rem!important;
+  }
+  @media (min-width: 767px) {
+    font-size: 1.8rem!important;
+  }
+  @media (min-width: 991px) {
+    font-size: 3rem!important;
+  }
+  @media (min-width: 1200px) {
+    font-size: 3.7rem!important;
+  }
+}
+
+.heroheader .herotext a {
+
+  font-size: .8rem!important;
+
+  @media (min-width: 575px) {
+    font-size: 1rem!important;
+  }
+}
+/* eomja */
+
 .section-title {
   margin-bottom: 3.12rem;
 
