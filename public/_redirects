@@ -1,0 +1,2 @@
+/signup/* 200! Role=customer
+/article/* /blog/:splat

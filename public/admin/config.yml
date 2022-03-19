@@ -1,0 +1,82 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: static/images/uploads
+public_folder: /images/uploads
+site_url: https://www.freie-schule-ostfriesland.de
+logo_url: https://www.freie-schule-ostfriesland.de/images/fso.png
+locale: 'de'
+collections:
+  - name: 'considerations'
+    label: 'Konzept - Grundgedanken'
+    folder: 'content/de/considerations'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Background Color', name: 'background', widget: 'color' }
+      - { label: 'Text Color', name: 'textcolor', widget: 'color' }
+      - { label: 'Weight', name: 'weight', widget: 'number', required: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Photo', name: 'photo', widget: 'image', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'faq'
+    label: 'FAQs'
+    folder: 'content/de/faq'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Reihenfolge', name: 'weight', widget: 'number', required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown' }
+  - name: 'diary'
+    label: 'Schultagebuch'
+    folder: 'content/de/diary'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Titel', name: 'title', widget: 'string' }
+      - { label: 'Reihenfolge (JJMM)', name: 'weight', widget: 'number', required: false }
+      - { label: 'Foto', name: 'photo', widget: 'image', required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown' }
+  - name: pages
+    label: Pages
+    files:
+      - label: 'Konzept - Werte'
+        name: values
+        file: data/values.yml
+        fields:
+          - label: value
+            name: value
+            widget: list
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Icon-80-80', name: 'icon', widget: 'image' }      
+              - { label: 'Explanation', name: 'explanation', widget: 'markdown' }
+      - label: 'Über Uns'
+        name: about
+        file: data/about.yml
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Intro', name: 'intro', widget: 'markdown' }
+          - { label: 'Team-Photo', name: 'teamphoto', widget: 'image' }      
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string' }
+              - { label: 'Title', name: 'title', widget: 'string', required: false  }
+              - { label: 'Education', name: 'education', widget: 'string', required: false  }
+              - { label: 'Photo', name: 'photo', widget: 'image' }      
+              - { label: 'Bio', name: 'bio', widget: 'markdown' }
+      - label: 'Helfen'
+        name: platzschaffenmitherz
+        file: data/platzschaffenmitherz.yml
+        fields:
+          - { label: 'Voting-URL', name: 'voting', widget: 'string' }
