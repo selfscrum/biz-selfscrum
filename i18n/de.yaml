@@ -47,7 +47,7 @@
   translation: Lebenslauf hochladen
   
 - id: cv_note
-  translation: uniquement doc, fichier pdf autorisé &amp; la taille du fichier sera inférieure à 2 Mb
+  translation: nur doc, pdf-Datei erlaubt &amp; Dateigröße unter 2 MB
   
 - id: cv_re
   translation: Dein Lebenslauf ist verpflichtend!
@@ -86,7 +86,7 @@
   translation: Nimm Kontakt zu uns auf
   
 - id: get_in_touch
-  translation: Melde dich bei uns
+  translation: Wir sind für dich da.
   
 - id: form_thanks_message
   translation: Danke für deinen Beitrag!

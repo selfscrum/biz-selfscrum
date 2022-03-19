@@ -14,7 +14,7 @@ image_gallery = true
 footer_info = "FOOTER-DE Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
 # contact form action
-contact_form_action = "" # contact form works with https://formspree.io
+contact_form_action = "hi" # contact form works with https://formspree.io
 
 # career form action
 career_form_action = "#" # career form works with https://formspree.io
@@ -99,11 +99,11 @@ button_link = "/"
 
 ############################# social site ########################
 [[social]]
-title = "AndromedaTweet"
+title = "@selfscum"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "https://twitter.com/@selfscrum"
 
 [[social]]
-title = "AndromedaIn"
+title = "Martin"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://www.linkedin.com/in/martin-jahr-72559214b/"
