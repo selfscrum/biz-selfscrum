@@ -14,7 +14,7 @@ image_gallery = true
 footer_info = "FOOTER-DE Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
 
 # contact form action
-contact_form_action = "hi" # contact form works with https://formspree.io
+contact_form_action = "/thanks"
 
 # career form action
 career_form_action = "#" # career form works with https://formspree.io
