@@ -212,7 +212,8 @@ body {
     .container-xxl {
       max-width: 1260px; } }
 .section {
-  padding: 6.25rem 0; }
+  /* mja  padding: 6.25rem 0; */
+  padding: 3.25rem 0; }
   .section-sm {
     padding: 4.3rem 0; }
 

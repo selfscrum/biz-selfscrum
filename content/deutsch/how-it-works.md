@@ -6,7 +6,7 @@ draft: false
 how_it_works_video:
   enable: true
   subtitle: "Unser Programm"
-  title: "Lerne selbstbestimmtes Lernen"
+  title: "Erlebe selbstbestimmtes Lernen"
   description: "Finde deine besten Fähigkeiten und lerne mit anderen online und weltweit, betreut von geprüften Lerncoaches."
   video_url: "https://www.youtube.com/embed/IWOytqB7N-k"
   video_thumbnail: "how-it-works/individual.jpg"

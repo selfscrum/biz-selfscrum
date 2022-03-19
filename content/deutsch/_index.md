@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Lerne selbstbestimmtes Lernen"
+  title: "Erlebe selbstbestimmtes Lernen"
   button: "Wie funktioniert's?"
   button_link: "/how-it-works"
   image: "home/splash.jpg"
