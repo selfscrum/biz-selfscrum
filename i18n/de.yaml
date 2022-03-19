@@ -108,3 +108,9 @@
   
 - id: year
   translation: Jahr
+
+- id: privacy
+  translation: Datenschutz
+
+- id: privacy_agreed
+  translation: Ich stimme der Speicherung und Verarbeitung meiner persönlichen Daten durch SELFSCRUM zu.
