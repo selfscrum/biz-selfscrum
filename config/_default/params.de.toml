@@ -99,7 +99,7 @@ button_link = "/"
 
 ############################# social site ########################
 [[social]]
-title = "@selfscum"
+title = "@selfscrum"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "https://twitter.com/@selfscrum"
 
