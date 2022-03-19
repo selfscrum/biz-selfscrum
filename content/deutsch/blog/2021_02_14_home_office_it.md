@@ -4,7 +4,7 @@ date = "2021-02-14T00:00:00"
 image = "blog/green.jpg"
 description = "Arbeitsplatzausstattung für virtuelle Zusammenarbeit"
 disableComments = true
-author = "martin"
+author = "martin-jahr"
 +++
 
 ## Der virtuelle Arbeitsplatz ist ziemlich real

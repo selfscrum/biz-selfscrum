@@ -3,7 +3,7 @@ title = "LearningExpedition - Learning together in an agile way"
 date = "2021-04-06T00:00:00"
 image = "blog/lernexpedition.jpg"
 description = "Integrated 12-week concept"
-author = "Martin"
+author = "martin-jahr"
 avoid_image = true
 +++
 

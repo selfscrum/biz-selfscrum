@@ -22,7 +22,7 @@ SELFSCRUM hat trotz seines jungen Alters bereits eine bewegte Geschichte hinter 
 
 #### Hackathon
 
-Alles begann mit Überlegungen zum EUvsVirus Hackathon. Wir waren nach unserer Schulgründung lange auf der Suche nach einem Angebot, das unsere freie Schule bei der Durchführung der Lernprozesse unterstützt - und das nicht nur aus Schulsicht, sondern auch für die Schüler:innen selber. In der aktuellen Corona-Situation kam noch die neue Dimension „Remote-Learning“ dazu. Wir kamen auf die Idee, eine Software-Lösung genauso frei zu gestalten wie die Schule und skizzierten kurz vor dem Hackathon digitale Whiteboard-Apps mit integrierten programmierten Eweiterungen so aufzuwerten, dass die freie Bearbeitungsform erhalten bleibt und trotzdem die notwendigen Lernaktivitäten unterstützt werden.
+Alles begann mit Überlegungen zum EUvsVirus Hackathon 2020. Wir waren nach unserer Schulgründung lange auf der Suche nach einem Angebot, das unsere freie Schule bei der Durchführung der Lernprozesse unterstützt - und das nicht nur aus Schulsicht, sondern auch für die Schüler:innen selber. In der aktuellen Corona-Situation kam noch die neue Dimension „Remote-Learning“ dazu. Wir kamen auf die Idee, eine Software-Lösung genauso frei zu gestalten wie die Schule und skizzierten kurz vor dem Hackathon digitale Whiteboard-Apps mit integrierten programmierten Eweiterungen so aufzuwerten, dass die freie Bearbeitungsform erhalten bleibt und trotzdem die notwendigen Lernaktivitäten unterstützt werden.
 
 Das Hackathon-Wochenende war ein guter Start, die Überlegungen zu diskutieren und ein paar Anwendungsfälle durchzuspielen. Mit dem internationalen Team hatten wir zweieinhalb intensive Tage, die nach einer durchgearbeiteten Nacht zum Montag in einem fertigen Video, einer Projektpräsentation und der neu erstellten selfscrum.org Website endeten.
 
@@ -42,4 +42,4 @@ Wir haben beim EU-Hackathon und auch beim deutschen EUDEC-Treffen ein Wochenende
 
 Das möchten wir gerne system(at)isch ändern. Wir bieten einen methodischen Rahmen und ein Lernangebot, das durch die Schüler:innen angenommen werden kann und es trotz aller Freiheit und Flexibilität schafft, nicht nur Nachweise zu bringen, sondern vor allem den Lernprozess und die Lernfreude so zu stärken, dass wir Schüler:innen selber in Verantwortung lassen können, sich die Inhalte zu erschließen, die sie haben wollen.
 
-So auf die Kürze die Geschichte von SELFSCRUM. Wir freuen uns über euer Feedback!
+So in aller die Kürze die Geschichte von SELFSCRUM. Wir freuen uns über euer Feedback!

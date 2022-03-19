@@ -11,4 +11,4 @@ social:
     link : "https://twitter.com/@martin_jahr"
 ---
 
-Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore necessitatibus. Facilis quisquam magni, autem deleniti nobis repellat excepturi id.
+Meine Leidenschaft sind digitale Werkzeuge und Methoden, um wichtige Prozesse zu unterstützen und zu ermöglichen. Zum Lernen sind sie ideal geeignet.

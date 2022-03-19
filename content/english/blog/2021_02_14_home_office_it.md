@@ -4,7 +4,7 @@ date = "2021-02-14T00:00:00"
 image = "blog/green.jpg"
 description = "Workplace equipment for virtual collaboration"
 disableComments = true
-Author = "Martin"
+author = "martin-jahr"
 +++
 
 ## The virtual workplace is quite real

@@ -3,7 +3,7 @@ title = "LernExpedition - Agil gemeinsam lernen"
 date = "2021-04-06T00:00:00"
 image = "blog/lernexpedition.jpg"
 description = "Integriertes 12-Wochen-Konzept"
-author= "Martin"
+author = "martin-jahr"
 avoid_image = true
 +++
 
