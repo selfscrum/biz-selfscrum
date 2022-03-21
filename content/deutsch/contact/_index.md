@@ -1,6 +1,6 @@
 ---
-title: Wir lieben es, mit dir zu sprechen!
+title: Wir freuen uns, mit dir zu sprechen!
 description: "SELFSCRUM contact"
-contact_image: "author/martin.jpg"
+contact_image: "contact/zoom.jpg"
 draft: false
 ---

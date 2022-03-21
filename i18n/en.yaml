@@ -114,3 +114,6 @@
 
 - id: privacy_agreed
   translation: I agree to the storage and processing of my personal data by SELFSCRUM.
+
+- id: symbol
+  translation: Generic Image

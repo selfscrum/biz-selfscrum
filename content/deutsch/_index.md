@@ -11,35 +11,32 @@ banner:
 brands_carousel:
   enable: false
   brand_images:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
+  - home/fso.png
+  - home/mona.png
 
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Was wir machen"
+  title: "Unsere Ideen <br/> für euren Erfolg"
+  description: "Wir sind selber Schulgründer möchten mit unserem Angebot dazu beitragen, die freien und alternativen Schulen weiter zu stärken."
   features_blocks:
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; upto date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Shareing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-
+  - icon: "las la-clone"
+    title: "Online-Lehre auf Abruf"
+    content: "Wir ermöglichen den Schulen, die mit uns arbeiten, auf einfache Weise die benötigten Lernbegleiter:innen an ihrer Schule einzusetzen."
+  - icon: "las la-hands-helping"
+    title: "Übernahme von Fachstunden"
+    content: "Wir haben Lernbegleiter:innen mit zweitem Staatsexamen für alle Fächer, die euch gerne in eurer Schule aushelfen."
+  - icon: "las la-igloo"
+    title: "Home Schooling"
+    content: "Wir ermöglichen Lernenden, an unseren Programmen teilzunehmen, wenn ihnen der reguläre Schulbesuch nicht möglich ist."
+  - icon: "las la-cloud-download-alt"
+    title: "Online-Programme"
+    content: "Wir erstellen für euch Online-Programme für die Schule oder zum Selbstlernen nach neuesten Erkenntnissen."
+  - icon: "las la-users"
+    title: "Learning Guide Community"
+    content: "Wir bieten euch einen geschützten Raum, wo ihr mit gleichgesinnten Lernbegleiter:innen selber lernen könnt."
+  
 
 # intro_video
 intro_video:   

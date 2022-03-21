@@ -1,6 +1,6 @@
 ---
 title: We love to talk with you!
 description: "SELFSCRUM contact"
-contact_image: "author/martin.jpg"
+contact_image: "contact/zoom.jpg"
 draft: false
 ---

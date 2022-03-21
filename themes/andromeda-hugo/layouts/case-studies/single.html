@@ -9,25 +9,37 @@
             <h1 style="line-height:1.2">{{i18n `lets_meet`}} <span class="d-block text-primary">{{.Title | markdownify}}</span></h1>
 
             <div class="d-block d-sm-flex border-top mt-4 pt-4">
+              {{if ne .Params.year nil }}
               <div class="mr-5">
                 <p class="mb-0 text-uppercase text-black-200 font-weight-600">{{i18n `year`}}</p>
                 <p class="text-primary font-weight-500">{{.Params.year | markdownify}}</p>
               </div>
+              {{end}}
+              {{if ne .Params.location nil }}
               <div class="mr-5">
                 <p class="mb-0 text-uppercase text-black-200 font-weight-600">{{i18n `location`}}</p>
                 <p class="text-primary font-weight-500">{{.Params.location | markdownify}}</p>
               </div>
+              {{end}}
+              {{if ne .Params.company_size nil }}
               <div>
                 <p class="mb-0 text-uppercase text-black-200 font-weight-600">{{i18n `company_size`}}</p>
                 <p class="text-primary font-weight-500">{{.Params.company_size | markdownify}}</p>
               </div>
+              {{end}}
             </div>
           </div>
 
           <div class="mt-4 mt-md-0" style="max-width: 200px">
-            {{ if and (.Params.logo) (fileExists (add `assets/` .Params.logo)) }}
-            {{ $img:= resources.Get (.Params.logo) }}
-            <img loading="lazy" decoding="async" class="img-fluid mb-3 mb-md-0" src="{{ $img.RelPermalink }}" alt="brand image">
+            {{ if ne .Params.icon nil }}
+            <div class="icon text-primary">
+              <i class="las biglas {{.Params.icon}}"></i>
+            </div>
+            {{ else }}
+              {{ if and (.Params.logo) (fileExists (add `assets/` .Params.logo)) }}
+              {{ $img:= resources.Get (.Params.logo) }}
+              <img loading="lazy" decoding="async" class="img-fluid mb-3 mb-md-0" src="{{ $img.RelPermalink }}" alt="brand image">
+              {{ end }}
             {{ end }}
           </div>
         </div>

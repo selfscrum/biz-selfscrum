@@ -11,6 +11,7 @@
           {{$img:= resources.Get .Params.contact_image }}
           {{$img:= $img.Resize "575x"}}
           <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          <br/><p class="smallcontent" style="text-align: left!important;">{{i18n `symbol`}}</p>
           {{end}}
         </div>
       </div>

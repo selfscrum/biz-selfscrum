@@ -11,7 +11,7 @@ logo_text = "SELFSCRUM"
 image_gallery = true
 
 # footer information
-footer_info = "FOOTER-DE Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Erlebe selbstbestimmtes Lernen"
 
 # contact form action
 contact_form_action = "/thanks"
@@ -93,9 +93,9 @@ button = "Einverstanden."
 [cta]
 enable = true
 title = "Erlebe selbstbestimmtes Lernen"
-content = "Entwickle deine persönlichen Fähigkeiten weiter, online und global. Ab 8 Jahren."
+content = "Ob in der freien Schule oder als Selbstlernende:r, <br/>entwickle deine persönlichen Fähigkeiten weiter, online und global. Ab 8 Jahren."
 button = "Jetzt mehr erfahren"
-button_link = "/"
+button_link = "/contact"
 
 ############################# social site ########################
 [[social]]

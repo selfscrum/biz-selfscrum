@@ -11,13 +11,13 @@ logo_text = "SELFSCRUM"
 image_gallery = true
 
 # footer information
-footer_info = "FOOTER Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat."
+footer_info = "Learn Self-determined Learning."
 
 # contact form action
 contact_form_action = "/thanks"
 
 # career form action
-career_form_action = "#" # career form works with https://formspree.io
+career_form_action = "#" 
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -27,9 +27,9 @@ mainSections= ["blog"]
 
 # contact information
 [contact_info]
-address = "Blücherstraße 14, 26603 Aurich, Germany"
-phone = ["+40 151 5989 1333"]
-email = ["info@selfscrum.org"]
+address = ""
+phone = ["+49 151 5989 1333"]
+email = ["hello@selfscrum.org"]
 
 # imaging processing
 [imaging]
@@ -93,17 +93,17 @@ button = "I Accept"
 [cta]
 enable = true
 title = "Learn Self-determined Learning"
-content = "Online and global, from 8 years on towards your personal skill set."
-button = "Download The Theme"
-button_link = "/"
+content = "Whether in free school or as a self-learner: <br/>Online and global, from 8 years on towards your personal skill set."
+button = "Check out How"
+button_link = "/en/how-it-works"
 
 ############################# social site ########################
 [[social]]
-title = "AndromedaTweet"
+title = "@selfscrum"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "https://twitter.com/@selfscrum"
 
 [[social]]
-title = "AndromedaIn"
+title = "Martin"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
-link = "#!"
+link = "https://www.linkedin.com/in/martin-jahr-72559214b/"

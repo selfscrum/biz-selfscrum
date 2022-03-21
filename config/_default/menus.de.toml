@@ -7,14 +7,14 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Über uns"
-url = "about/"
-weight = 8
-
-[[main]]
-name = "Wie funktioniert's?"
+name = "Lernende"
 url = "how-it-works/"
 weight = 5
+
+[[main]]
+name = "Schulen"
+url = "case-studies/"
+weight = 6
 
 [[main]]
 name = "Blog"
@@ -27,70 +27,22 @@ name = "Infos"
 hasChildren = true
 
   [[main]]
+  name = "Über uns"
   parent = "Infos"
-  name = "Career"
-  url = "career/"
+  url = "about/"
   weight = 1
 
   [[main]]
+  name = "Arbeite mit uns"
   parent = "Infos"
-  name = "Pricing"
-  url = "pricing/"
+  url = "career/"
   weight = 2
 
   [[main]]
   parent = "Infos"
-  name = "Blog Details"
-  url = "blog/post-1/"
-  weight = 3
-
-  [[main]]
-  parent = "Infos"
-  name = "Author Single"
-  url = "author/abdullah-al-shifat/"
-  weight = 4
-
-  [[main]]
-  parent = "Infos"
-  name = "Job Details"
-  url = "career/job-post-1/"
-  weight = 5
-
-  [[main]]
-  parent = "Infos"
-  name = "Case Studies"
-  url = "case-studies/"
-  weight = 6
-
-  [[main]]
-  parent = "Infos"
-  name = "Case Studies Details"
-  url = "case-studies/case-1/"
-  weight = 7
-
-  [[main]]
-  parent = "Infos"
-  name = "Terms & Conditions"
-  url = "terms-and-conditions/"
+  name = "Impressum/Datenschutz"
+  url = "/privacy"
   weight = 8
-
-  [[main]]
-  parent = "Infos"
-  name = "Changelog"
-  url = "changelog/"
-  weight = 9
-
-  [[main]]
-  parent = "Infos"
-  name = "Sign In"
-  url = "signin/"
-  weight = 10
-
-  [[main]]
-  parent = "Infos"
-  name = "Elements"
-  url = "elements/"
-  weight = 11
   
 [[main]]
 name = "Kontakt"
@@ -100,21 +52,17 @@ weight = 15
 
 # footer menu
 [[footer]]
-name = "Über uns"
-url = "about/"
+name = "Für Lernende"
+url = "how-it-works/"
 weight = 1
 
 [[footer]]
-name = "Wie funktioniert's?"
-url = "how-it-works/"
+name = "Für Schulen"
+url = "case-studies/"
 weight = 2
 
 [[footer]]
-name = "Terms & Conditions"
-url = "terms-and-conditions/"
+name = "Blog"
+url = "blog/"
 weight = 3
 
-[[footer]]
-name = "Changelog"
-url = "changelog/"
-weight = 4

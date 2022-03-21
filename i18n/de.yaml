@@ -56,7 +56,7 @@
   translation: Für den Job bewerben
   
 - id: lets_meet
-  translation: Wir sollten uns treffen
+  translation: So arbeiten wir mit euch.
   
 - id: year
   translation: Jahr
@@ -114,3 +114,7 @@
 
 - id: privacy_agreed
   translation: Ich stimme der Speicherung und Verarbeitung meiner persönlichen Daten durch SELFSCRUM zu.
+
+- id: symbol
+  translation: Symbolbild
+

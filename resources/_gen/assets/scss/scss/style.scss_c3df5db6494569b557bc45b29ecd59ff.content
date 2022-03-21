@@ -170,6 +170,10 @@ h1,
       color: #ffffff;
       border-color: transparent !important; }
 
+/* mja */
+.btn a {
+  color: #ffffff; }
+
 body {
   color: #888888;
   background-color: #ffffff;
@@ -2590,3 +2594,17 @@ footer.footer {
 .form-status {
   color: #A35000;
   font-weight: 500; }
+
+.smallcontent {
+  font-size: .7rem; }
+
+.smallcontent a {
+  color: #888;
+  text-decoration: underline; }
+
+.smallcontent a:hover {
+  color: #A35000;
+  text-decoration: none; }
+
+.biglas {
+  font-size: 6rem; }

@@ -31,11 +31,18 @@
                       <a href="{{.RelPermalink}}" class="text-primary mt-3 d-inline-block font-weight-500 stretched-link">{{i18n `read_more`}}<i class="las la-angle-right ml-1"></i></a>
                   </div>
                   <div class="pl-4">
-                    {{ if and (.Params.logo) (fileExists (add `assets/` .Params.logo)) }}
-                    {{ $img:= resources.Get (.Params.logo) }}
-                    <img loading="lazy" decoding="async" class="img-fluid" src="{{ $img.RelPermalink }}" alt="brand image">
-                    {{ end }}
-                  </div>
+
+                    {{if ne .Params.icon nil}}
+                      <div class="icon text-primary">
+                        <i class="las biglas {{.Params.icon}}"></i>
+                      </div>
+                    {{else}}
+                      {{ if and (.Params.logo) (fileExists (add `assets/` .Params.logo)) }}
+                      {{ $img:= resources.Get (.Params.logo) }}
+                      <img loading="lazy" decoding="async" class="img-fluid" src="{{ $img.RelPermalink }}" alt="brand image">
+                      {{ end }}
+                    {{end}}
+                    </div>
                 </div>
             </div>
           </div>

@@ -7,7 +7,7 @@ how_it_works_video:
   enable: true
   subtitle: "Unser Programm"
   title: "Erlebe selbstbestimmtes Lernen"
-  description: "Finde deine besten Fähigkeiten und lerne mit anderen online und weltweit, betreut von geprüften Lerncoaches."
+  description: "Bist du Selbstlernende:r oder bist du an einer Schule, die unser Programm anbietet? <br/> Finde deine besten Fähigkeiten und lerne mit anderen online und weltweit, betreut von geprüften Lerncoaches."
   video_url: "https://www.youtube.com/embed/IWOytqB7N-k"
   video_thumbnail: "how-it-works/individual.jpg"
 
@@ -35,6 +35,5 @@ how_it_works:
     title: "Finde deine eigene Vielfalt"
     description: "Online Lernen heißt nicht nur Videokonferenz. Unsere Challenges sind so vielfältig wie unsere Lernenden. Die Lerngruppen treffen sich regelmäßig online und arbeiten dann ganz unterschiedlich - alleine, in Gruppen, mit Material oder draußen."
     image: "how-it-works/vielfalt.jpg"
-
 
 ---

@@ -6,7 +6,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 # copyright
-copyright = "(C) 2022 SELFSCRUM. All Rights Reserved."
+copyright = "(C) 2022 SELFSCRUM. All Rights Reserved. Icons by [icons8](https://icons8.com)"
 
 
 
@@ -18,4 +18,4 @@ languageCode = "de-de"
 contentDir = "content/deutsch"
 weight = 1
 # copyright
-copyright = "(C) 2022 SELFSCRUM. Alle Rechte vorbehalten."
+copyright = "(C) 2022 SELFSCRUM. Alle Rechte vorbehalten. Icons von [icons8](https://icons8.com)"

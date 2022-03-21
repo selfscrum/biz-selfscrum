@@ -1,24 +1,24 @@
 ---
 title: "Arbeite mit uns!"
-description: "meta description"
+description: "SELFSCRUM Jobs"
 draft: false
 
 # our_values
 our_values:
   enable: true
-  subtitle: "Our Values"
-  title: "Discover Yourself Newly With Our Platform"
-  description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. This made every client and team leaving a notes from the sticky note on a piece of paper?"
+  subtitle: "Unsere Werte"
+  title: "Wir alle sind Lernende"
+  description: "Wir sind alle so unterschiedlich und wollen doch alle für uns selbst und unsere Welt eine positive Entwicklung. Lasst sie uns gemeinsam herstellen.<br/><br/>Unsere Job-Börse ist noch im Aufbau. Bist du an einer Stelle als Lernbegleiter:in interessiert? [Schreibe uns initiativ an](/contact), wenn du von Anfang an dabei sein möchtest.<br/><br/>"
 
-  button_link: "#open-position"
-  button_label: "View Open Positions"
+#  button_link: "#open-position"
+# button_label: "Offene Stellen"
 
   image: "images/vectors/career.png"
 
 
 # benefit
 benefit:
-  enable: true
+  enable: false
   subtitle: "Your Benefits"
   title: "Live Your Best Life"
   description: "We were freelance designers developders, constantly finding <br> ourselve deep vague feedback. This made every client and team"
@@ -40,7 +40,7 @@ benefit:
 
 # office_gallery
 office_gallery:
-  enable: true
+  enable: false
   subtitle: "Our Offices"
   title: "Tour our offices"
 
@@ -72,9 +72,9 @@ office_gallery:
 
 # open_position
 open_position:
-  enable: true
-  subtitle: "Join Team"
-  title: "Join Our Growing Team"
+  enable: false
+  subtitle: "Mach mit!"
+  title: "Komm in unser agiles Team!"
 
 ---
 
