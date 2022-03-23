@@ -12,6 +12,10 @@ disqusShortname = "" # we use disqus to show comments in blog posts . To install
 # disable language
 disableLanguages = [] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 defaultContentLanguage = 'de'
+enableRobotsTXT = true
+
+[sitemap]
+  filename = 'sitemap.xml'
 
 ############################# Modules ##############################
 [module]

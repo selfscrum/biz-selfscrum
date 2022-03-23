@@ -5,7 +5,7 @@
 [build.environment]
   HUGO_VERSION = "0.89.4"
   HUGO_THEME = "andromeda-hugo"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://selfscrum.org/"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.

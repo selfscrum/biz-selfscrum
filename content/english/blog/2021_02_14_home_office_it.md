@@ -25,7 +25,7 @@ However, the boom of Zoom and comparable other systems like Teams, Jitsi, BigBlu
 
 Sounds elaborate! What took the longest was finding concepts and the right tools. Once I got those together, the setup went along pleasantly quickly. Not perfect yet, but a good start with which I will now gain experience. 
 
-![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1613335266/selfscrum/Portfolio-Digital_Consulting_mfjsmx.png)
+![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1648042299/selfscrum/Portfolio-Digital_Consulting_gyjd5m.png)
 
 The circuit of the connections results from the diagram. The decisions for the connection technique result from the available hardware:
 
@@ -36,6 +36,7 @@ The circuit of the connections results from the diagram. The decisions for the c
 * Elgato Stream Deck as a programmable additional keyboard. Elgato comes from the gamer and video scene, you can tell that from the devices. Ultimately solid technology, a bit overpriced but well usable.
 * Elgato Key Light is a video light that has its own WLAN access and can thus be controlled remotely. Unfortunately, only in 2G WLAN standard and unfortunately only via a proprietary Elgato protocol. The setup hobbles for a while until everything fits, but then it runs stably in operation. It can be controlled well via the Stream Deck. The color temperature can be adjusted. For the Green Wall at a distance of 1.50 meters, one light is just enough, in the shadier areas the screen flickers a bit. Two would be better - but at over 200 EUR, the lamp is no bargain...
 * The "Green Wall" in my case is an easily rollable stand screen from celexon. From Elgato there is also a slightly cheaper variant, but on the one hand, it is not available right now - too much demand. And besides, the protruding feet bother me there, which can become tripping hazards. 
+* For audio, I use a professional preamp from Focusrite, which also mixes my own voice right back into the matching headphones, making conversation more enjoyable. The headphones are wired to keep latencies low and typical Wifi or Bluetooth interference out.
 * The main cam is a Logitech StreamCam, a relatively new device with decent display quality and USB-C cable. I briefly considered using my Nikon DSLR, but decided against it. Even more tech components that need to be managed again - that's where the webcam is good enough for everyday use.
 * Since I live in the Apple universe with my mobile devices, the second cam and also the teleprompter are located on these devices. an iPad serves as a display engine for the text, if it should be something prefabricated. The iPhone controls the teleprompter (optionally also via a browser window. I would like to have a REST interface, but most client apps are not ready yet) or serves as a second camera. And that brings us to the video processing structure shown in the next image.
 
