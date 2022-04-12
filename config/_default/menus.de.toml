@@ -44,6 +44,12 @@ hasChildren = true
   url = "/privacy"
   weight = 8
   
+  [[main]]
+  parent = "Infos"
+  name = "RSS Feed"
+  url = "/index.xml"
+  weight = 9
+
 [[main]]
 name = "Kontakt"
 url = "contact/"
