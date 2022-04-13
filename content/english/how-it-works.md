@@ -8,7 +8,7 @@ how_it_works_video:
   subtitle: "Our Program"
   title: "Learn Self-determined Learning"
   description: "Find your best skills and learn with others online and worldwide, supervised by certified learning coaches."
-  video_url: "https://www.youtube.com/embed/IWOytqB7N-k"
+  video_url: "https://youtu.be/f-o_CX2CoSc"
   video_thumbnail: "how-it-works/individual.jpg"
 
 

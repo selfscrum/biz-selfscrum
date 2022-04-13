@@ -8,7 +8,7 @@ how_it_works_video:
   subtitle: "Unser Programm"
   title: "Erlebe selbstbestimmtes Lernen"
   description: "Bist du Selbstlernende:r oder bist du an einer Schule, die unser Programm anbietet? <br/> Finde deine besten Fähigkeiten und lerne mit anderen online und weltweit, betreut von geprüften Lerncoaches."
-  video_url: "https://www.youtube.com/embed/IWOytqB7N-k"
+  video_url: "https://youtu.be/PeXADasrPHU"
   video_thumbnail: "how-it-works/individual.jpg"
 
 
