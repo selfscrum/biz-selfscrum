@@ -25,7 +25,7 @@ However, the boom of Zoom and comparable other systems like Teams, Jitsi, BigBlu
 
 Sounds elaborate! What took the longest was finding concepts and the right tools. Once I got those together, the setup went along pleasantly quickly. Not perfect yet, but a good start with which I will now gain experience. 
 
-![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1648042299/selfscrum/Portfolio-Digital_Consulting_gyjd5m.png)
+![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1651439074/selfscrum/portfolio_vmo92l.png)
 
 The circuit of the connections results from the diagram. The decisions for the connection technique result from the available hardware:
 

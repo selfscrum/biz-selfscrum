@@ -25,7 +25,7 @@ Der Boom von Zoom und vergleichbaren andere Systemen wie Teams, Jitsi, BigBlueBu
 
 Klingt aufwändig! Am längsten hat die Suche nach Konzepten und den passenden Tools gedauert. Als ich diese zusammen hatte, ging das Setup erfreulich schnell voran. Noch nicht perfekt, aber ein guter Start, mit dem ich nun Erfahrungen sammeln werde. 
 
-![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1648042299/selfscrum/Portfolio-Digital_Consulting_gyjd5m.png)
+![home_office_it diagram](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1651439074/selfscrum/portfolio_vmo92l.png)
 
 Die Schaltung der Verbindungen ergibt sich aus dem Diagramm. Die Entscheidungen für die Verbindungstechnik ergeben sich aus der verfügbaren Hardware:
 
