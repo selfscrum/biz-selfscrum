@@ -5,7 +5,7 @@ image = "blog/vr.png"
 description = "Metaverse with obstacles"
 disableComments = true
 author = "martin-jahr"
-avoid_image = true
+avoid_image = false
 +++
 
 What would my [web3](../2022_04_11_web3) studies be without Metaverse? And what would the Metaverse be without one of those meanwhile iconic headsets that open up new dimensions of virtual realities? 
