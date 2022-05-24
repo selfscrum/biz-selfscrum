@@ -16,7 +16,7 @@ The hardware requirements are not challenging, even with my business laptop at t
 
 After the "unboxing", as the first unpacking of the new toys is called today, the first disillusionment comes. "Connect the link box to the display port of the graphics card". Aha. I don't have one. And now? Do I have to buy a gamer PC after all? Amazon knows what to do and sells me a USB-C adapter, which kindly arrives before the weekend. Unboxing 2 can begin.
 
-![My Metaverse for Beginners](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653426695/selfscrum/vr_np0s9p.png)
+![My Metaverse for Beginners](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653432482/selfscrum/Portfolio-VR_lysrrh.png)
 
 ## Learning 1 - Get enough power strips
 

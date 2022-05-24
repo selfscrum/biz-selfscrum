@@ -16,7 +16,7 @@ Die Hardwareanforderungen sind nicht ohne, mit meinem Business-Laptop am eher ob
 
 Nach dem "Unboxing", wie man das Erstauspacken von den neuen Spielzeugen heute so schön nennt, kommt die erste Ernüchterung. "Schließe die Linkbox an den Displayport der Grafikkarte an". Aha. Hab ich nicht. Und jetzt? Muss ich mir jetzt doch noch einen Gamer-PC kaufen? Amazon weiß Rat und verkauft mir einen USB-C-Adapter, der freundlicherweise noch zum Wochenende eintrifft. Unboxing 2 kann beginnen.
 
-![Mein Metaverse für Anfänger](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653426695/selfscrum/vr_np0s9p.png)
+![Mein Metaverse für Anfänger](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653432482/selfscrum/Portfolio-VR_lysrrh.png)
 
 ## Learning 1 - Besorgt euch genug Steckdosenleisten
 
