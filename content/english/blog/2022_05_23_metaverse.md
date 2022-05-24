@@ -1,8 +1,8 @@
 +++
 title = "World on the wire - Metaverse with obstacles"
-date = "2022-05-24T00:00:00"
+date = "2022-05-23T00:00:00"
 image = "blog/vr.png"
-description = "Metaverse with obstacles".
+description = "Metaverse with obstacles"
 disableComments = true
 author = "martin-jahr"
 avoid_image = true

@@ -1,6 +1,6 @@
 +++
 title = "Welt am Draht - Metaverse mit Hindernissen"
-date = "2022-05-24T00:00:00"
+date = "2022-05-23T00:00:00"
 image = "blog/vr.png"
 description = "Metaverse mit Hindernissen"
 disableComments = true
