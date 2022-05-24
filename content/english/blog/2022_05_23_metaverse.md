@@ -30,11 +30,11 @@ This is the more elaborate tracking system - the simpler consumer systems use in
 
 In marketing speak, this is called "immersive experience". Only when you think about how to place the base stations in the corners of the room at a height of 2 meters without ruining the entire living environment with tripods and cables, do you realize that it is also an "Intrusive Experience". VR in motion needs space and equipment in the real room.
 
-## Learning 3 - Prepare for bruises.
+## Learning 3 - Prepare for bruises
 
 There's no room for such experiments here right now - I'm retreating into my nerd cave and trying to clear 1*2 square meters. I'm halfway there, but I'll always get bruises on some edge or corner later. Very immersive. You can also use such a VR headset while sitting, but the line of sight to the base stations behind the large work screens is not optimal either. But it's enough for first attempts.
 
-## Learning 4 - Hardware must
+## Learning 4 - Good Hardware is a Must
 
 I can't get through the installation processes without a warning - even the setup software noticed my undersized graphics card, but doesn't refuse further installation. The Link Box accepts my DisplayPort adapter, I can pair the controllers -my digital hands- and hardware is ready. The base stations hum along -apparently a fan for the laser- and everywhere it flashes first blue, then green. 
 
