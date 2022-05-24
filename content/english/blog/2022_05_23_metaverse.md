@@ -62,3 +62,4 @@ Augmented technologies that can be used with a cell phone or tablet are, in my v
 
 For me, this part of the metaverse remains a very special niche that still needs to be explored and enhanced, especially for learning purposes for younger learners.
 
+*(Title hero image based on original artwork of [PenSmasher from NounProject.com (Male Metaversist)](https://thenounproject.com/icon/vr-headset-3307731/) and [Victoruler from NounProject.com (Female Metaversist)](https://thenounproject.com/icon/vr-headset-4618705/))*

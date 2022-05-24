@@ -5,7 +5,7 @@ image = "blog/vr.png"
 description = "Metaverse mit Hindernissen"
 disableComments = true
 author = "martin-jahr"
-avoid_image = true
+avoid_image = false
 +++
 
 Was wären meine [web3](../2022_04_11_web3)-Studien ohne Metaverse? Und was wäre das Metaverse ohne eines dieser mittlerweile ikonischen Headsets, mit denen man sich neue Dimensionen virtueller Realitäten erschließt? 
@@ -61,3 +61,5 @@ Zudem ist mir die Erfahrung teilweise schon "zu immersiv" - die wichtigsten Sinn
 Augmented Technologien, die man mit Handy oder Tablet nutzt, sind da aus meiner Sicht schon deutlich weiter in der Alltagsrelevanz des Lernens - weniger Aufand, bessere Integration in die Umwelt und weiterhin mögliche direkte Interaktion mit anderen. 
 
 Für mich bleibt dieser Teil des Metaversums erst einmal eine sehr spezielle Nische, die es noch zu erkunden und zu verbessern gilt - insbesondere zu Lernzwecken für jüngere Lernende.
+
+*(Title hero image based on original artwork of [PenSmasher from NounProject.com (Male Metaversist)](https://thenounproject.com/icon/vr-headset-3307731/) and [Victoruler from NounProject.com (Female Metaversist)](https://thenounproject.com/icon/vr-headset-4618705/))*
