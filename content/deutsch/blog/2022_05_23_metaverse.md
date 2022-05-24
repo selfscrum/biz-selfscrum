@@ -18,11 +18,11 @@ Nach dem "Unboxing", wie man das Erstauspacken von den neuen Spielzeugen heute s
 
 ![Mein Metaverse für Anfänger](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653432482/selfscrum/Portfolio-VR_lysrrh.png)
 
-## Learning 1 - Besorgt euch genug Steckdosenleisten
+### Learning 1 - Besorgt euch genug Steckdosenleisten
 
 Ich hatte es beim ersten Auspacken schon gesehen - 5 Netzteile und ziemlich viele Kabel sind in der Kiste. Zusammen mit den nun notwendigen Verlängerungskabeln ergibt sich ein ordentlicher Kupferhaufen in meinem Zimmer. "Welt am Draht" (visionärer Fassbinder-Metaverse-Film aus den 1970ern) gewinnt so eine neue Facette.
 
-## Learning 2 - VR ist raumgreifend
+### Learning 2 - VR ist raumgreifend
 
 Die zwei so genannten Basisstationen sind ein wichtiger Bestandteil des VR-Systems. Sie spannen, diagonal gegenüber positioniert, ein Rechteck auf, das die Bewegungsfläche eingrenzt. Mit zwei Stationen sind es ca 6 * 6 m². Das nennt sich Lighthouse Tracking - die Basisstationen senden einen schwenkenden unsichtbaren Laserstrahl aus, außerdem ein gepulstes Infrarotsignal. Die Empfänger (Controller und Headset) Zählen die Impulse in der Zeit zwischen zwei empfangenen Laserstrahlen und wissen dann sehr genau, wo sie im Raum sind und können diese Informationen dem Computer mitteilen (ich wüsste das nicht, aber es funktioniert). 
 
@@ -30,11 +30,11 @@ Das ist das aufwändigere Trackingsystem - die einfacheren Consumersysteme verwe
 
 "Immersive Experience" heißt das im Marketingsprech. Erst wenn man überlegt, wie man die Basistationen nun in den Ecken des Raums in 2 Metern Höhe platziert, ohne sich durch Stative und Kabel das gesamte Wohnklima zu ruinieren, wird einem klar, dass es auch eine "Intrusive Experience" ist. VR in Bewegung braucht Platz und Ausrüstung im Echtraum.
 
-## Learning 3 - Bereitet euch auf blaue Flecken vor
+### Learning 3 - Bereitet euch auf blaue Flecken vor
 
 Den Raum gibt's hier gerade nicht für solche Experimente - ich verziehe mich in meine Nerd-Höhle und versuche, 1*2 Quadratmeter freizuräumen. Das gelingt so halbwegs, aber ich werde mir später immer wieder an irgendeiner Kante oder Ecke blaue Flecken holen. Sehr immersive. Man kann so ein VR Headset auch im Sitzen betreiben, aber hinter den großen Arbeitsbildschirmen ist die Sichtverbindung zu den Basisstationen auch nicht so optimal. Für erste Versuche reicht's aber.
 
-## Learning 4 - Hardware muss
+### Learning 4 - Hardware muss
 
 Ich komme durch die Installationsprozesse nicht ohne Warnung - auch die Setup-Software hat meine unterdimensionierte Grafikkarte bemerkt, verweigert aber nicht die weitere Installation. Die Link Box azeptiert meinen DisplayPort Adapter, die Controller -meine digitalen Hände- kann ich koppeln und alles ist hardwaremäßig bereit. Die Basisstationen summen vor sich hin -anscheinend ein Lüfter für den Laser- und überall blinkt es erst blau, dann grün. 
 
@@ -44,15 +44,15 @@ Der erste Eindruck ist eher verhalten. Das Headset sitzt gut, aber die Optik ist
 
 Die ersten Apps laufen dann schon besser oder ich gewöhne mich an die leicht verschwommene Aussicht. Ich schaue in ein paar virtuelle Museen, nicht viel anders als echte, und versuche mich mit dem einen oder anderen 3D Spiel. Ganz nett, aber ein richtiges Hochgefühl stellt sich noch nicht ein. 
 
-## Learning 5 - Ohne Akku keine Hände
+### Learning 5 - Ohne Akku keine Hände
 
 Nach einiger Zeit verschwindet erst eine Hand im Spiel, dann die andere. Was ist los? Die Controller lassen sich neu koppeln, gehen aber gleich wieder aus. Die zu Beginn halb geladenen Akkus sind anscheinend schon leer. 5-6 Stunden sollen sie voll geladen halten, das muss man beim Einsatz bedenken. Leider sind die Akkus fest verbaut, es gibt also Zwangspausen.
 
-## Learning 6 - Denke den Raum neu 
+### Learning 6 - Denke den Raum neu 
 
 Eine App versöhnt mich dann doch mit meinem Neuerwerb - Googles Tilt Brush ist für mich die Killer App. Ein VR Malprogramm! Mit den Controllern kann ich wie bei Photoshop Farben, Pinsel und Effekte auswählen und im Raum malen. 3D Graffiti sozusagen. Hier kann ich mich noch eine Weile austoben. Der Umgang mit den Werkzeugen im Raum will erst geübt werden, aber das ist eine App, die tatsächlich einmal neue Dimensionen eröffnet. Sicher gibt es weitere Anwendungen dieser Art, die ich in der nächsten Zeit zu erforschen hoffe.
 
-## (Zwischen-)Fazit
+### (Zwischen-)Fazit
 
 Um es kurz zu sagen - überschwängliche Begeisterung stellt sich bei mir (noch) nicht ein. Ein sehr hoher Hardware-Aufwand führt zu einem Ergebnis, das ich von der Experience her eher mittelmäßig finde. Vielleicht liegt es an meinem Setup, aber wenn ich mir über Nachhaltigkeit Gedanken mache, ist so eine Ausrüstung deutlich überdimensioniert. 
 

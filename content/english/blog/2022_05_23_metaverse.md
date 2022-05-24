@@ -18,11 +18,11 @@ After the "unboxing", as the first unpacking of the new toys is called today, th
 
 ![My Metaverse for Beginners](https://res.cloudinary.com/dzw4emsdt/image/upload/c_scale,w_900,q_auto/v1653432482/selfscrum/Portfolio-VR_lysrrh.png)
 
-## Learning 1 - Get enough power strips
+### Learning 1 - Get enough power strips
 
 I had already seen it during the first unboxing - 5 power supplies and quite a few cables are in the box. Combined with the now necessary extension cords, it makes for a neat copper pile in my room. "World on the Wire" (visionary Fassbinder metaverse film from the 1970s) thus gains a new facet.
 
-## Learning 2 - VR is space-consuming
+### Learning 2 - VR is space-consuming
 
 The two so-called base stations are an important part of the VR system. They span, positioned diagonally opposite, a rectangle that delimits the movement area. With two stations it is about 6 * 6 m². This is called Lighthouse Tracking - the base stations emit a sweeping invisible laser beam and also a pulsed infrared signal. The receivers (controller and headset) count the pulses in the time between two received laser beams and then know very precisely where they are in space and can report this information to the computer (I wouldn't know, but it works). 
 
@@ -30,11 +30,11 @@ This is the more elaborate tracking system - the simpler consumer systems use in
 
 In marketing speak, this is called "immersive experience". Only when you think about how to place the base stations in the corners of the room at a height of 2 meters without ruining the entire living environment with tripods and cables, do you realize that it is also an "Intrusive Experience". VR in motion needs space and equipment in the real room.
 
-## Learning 3 - Prepare for bruises
+### Learning 3 - Prepare for bruises
 
 There's no room for such experiments here right now - I'm retreating into my nerd cave and trying to clear 1*2 square meters. I'm halfway there, but I'll always get bruises on some edge or corner later. Very immersive. You can also use such a VR headset while sitting, but the line of sight to the base stations behind the large work screens is not optimal either. But it's enough for first attempts.
 
-## Learning 4 - Good Hardware is a Must
+### Learning 4 - Good Hardware is a Must
 
 I can't get through the installation processes without a warning - even the setup software noticed my undersized graphics card, but doesn't refuse further installation. The Link Box accepts my DisplayPort adapter, I can pair the controllers -my digital hands- and hardware is ready. The base stations hum along -apparently a fan for the laser- and everywhere it flashes first blue, then green. 
 
@@ -44,15 +44,15 @@ The first impression is rather restrained. The headset fits well, but the looks 
 
 The first apps run better or I get used to the slightly blurry view. I look into a few virtual museums, not much different from real ones, and try my hand at one or the other 3D game. Quite nice, but a real high doesn't set in yet. 
 
-## Learning 5 - No hands without battery
+### Learning 5 - No hands without battery
 
 After some time, first one hand disappears in the game, then the other. What's wrong? The controllers can be re-paired, but immediately vanish again. The batteries, which were half charged at the beginning, are apparently already empty. They are supposed to last 5-6 hours fully charged, which you have to consider when using them. Unfortunately, the batteries are fixed, so there are forced breaks.
 
-## Learning 6 - Re-think the room 
+### Learning 6 - Re-think the room 
 
 One app does reconcile me with my new acquisition - Google's Tilt Brush is the killer app for me. A VR painting program! Using the controllers, I can select colors, brushes and effects and paint in space just like Photoshop. 3D graffiti, so to speak. I can let off steam here for a while. The handling of the tools in space needs to be practiced first, but this is an app that actually opens up new dimensions for once. I'm sure there are more apps like this that I hope to explore in the near future.
 
-## (Interim) Conclusion
+### (Interim) Conclusion
 
 To put it briefly - gushing enthusiasm does not set in for me (yet). A very high hardware effort leads to a result that I find rather mediocre in terms of experience. Maybe it's my setup, but when I think about sustainability, such equipment is clearly oversized. 
 
