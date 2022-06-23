@@ -1,7 +1,7 @@
 +++
 title = "Automated Multi-Format Publishing with Github"
 date = "2020-05-26T21:00:00"
-image = "https://res.cloudinary.com/dzw4emsdt/image/upload/v1590524055/selfscrum/actions_etgjp7.png"
+image = "blog/github-automation.png"
 description = "Basis for our Project Documentation"
 disableComments = true
 author = "martin-jahr"
