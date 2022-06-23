@@ -5,6 +5,7 @@ image = "blog/github-automation.png"
 description = "Die Basis für den Dokumenationsbedarf unseres Projekts"
 disableComments = true
 author = "martin-jahr"
+avoid_image = true
 +++
 
 ## Motivation und Features
