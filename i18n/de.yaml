@@ -118,3 +118,5 @@
 - id: symbol
   translation: Symbolbild
 
+- id: giscus_language
+  translation: de

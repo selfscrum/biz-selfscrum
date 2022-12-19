@@ -117,3 +117,6 @@
 
 - id: symbol
   translation: Generic Image
+
+- id: giscus_language
+  translation: de

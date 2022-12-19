@@ -48,7 +48,6 @@
         <div class="content">
           {{.Content}}
         </div>
-        {{ $data-lang }}
         <script src="https://giscus.app/client.js"
             data-repo="selfscrum/biz-selfscrum"
             data-repo-id="R_kgDOG_8-pQ"
@@ -60,7 +59,7 @@
             data-emit-metadata="0"
             data-input-position="top"
             data-theme="light"
-            data-lang="de"
+            data-lang="{{i18n `giscus_language`}}"
             data-loading="lazy"
             crossorigin="anonymous"
             async>
