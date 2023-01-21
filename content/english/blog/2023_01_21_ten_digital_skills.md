@@ -5,7 +5,7 @@ image = "blog/digital-skills.png"
 description = "Learn to master your digital life"
 disableComments = true
 draft = false
-author = martin-jahr
+author = "martin-jahr"
 avoid_image = false
 +++
 
