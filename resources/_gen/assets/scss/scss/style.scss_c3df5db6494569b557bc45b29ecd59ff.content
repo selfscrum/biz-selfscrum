@@ -2608,3 +2608,15 @@ footer.footer {
 
 .biglas {
   font-size: 6rem; }
+
+.invisible-table table {
+  border-collapse: collapse;
+  width: 65%; }
+
+.invisible-table tr {
+  vertical-align: middle; }
+
+.invisible-table td, th {
+  border-style: hidden;
+  background-color: white;
+  padding: 0.6rem; }

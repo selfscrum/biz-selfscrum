@@ -42,5 +42,16 @@ At the EU Hackathon and also at the German EUDEC meeting a weekend later, we not
 
 We would like to change that in a system(at)ic way. We offer a methodical framework and a learning offer which can be accepted by the pupils and which, despite all freedom and flexibility, manages not only to provide evidence, but above all to strengthen the learning process and the joy of learning in such a way that we can let the pupils themselves be responsible for developing the contents which they want to have.
 
+#### Partner
+
+The best results are not achieved alone, but in conjunction with partners, so that competencies complement each other. Over the years, I've worked a lot with software and consulting partners and have learned to assess which partners work and which do not. The selection here results from practical experience; I have already worked with each partner offering myself.
+
+{{% table %}}
+| | |
+|----|----|----|
+| ![Fibery Partner Logo](./fibery.png) | Replace most of your IT with a single tool 🤹‍♀️ Free yourself from scattered tools and simply use Fibery for strategy, ideation, roadmapping, feedback management and more. | https://fibery.io |
+| ![Stackfield Partner Logo](./stackfield.png) | All-in-one collaboration tool: Tasks, projects, chat, video conferencing, whiteboards, documents and more. No compromise on privacy and security. | https://www.stackfield.com |
+{{% /table %}}
+
 This is the story of SELFSCRUM in a nutshell. We are looking forward to your feedback!
 

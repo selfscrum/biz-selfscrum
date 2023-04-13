@@ -42,4 +42,16 @@ Wir haben beim EU-Hackathon und auch beim deutschen EUDEC-Treffen ein Wochenende
 
 Das möchten wir gerne system(at)isch ändern. Wir bieten einen methodischen Rahmen und ein Lernangebot, das durch die Schüler:innen angenommen werden kann und es trotz aller Freiheit und Flexibilität schafft, nicht nur Nachweise zu bringen, sondern vor allem den Lernprozess und die Lernfreude so zu stärken, dass wir Schüler:innen selber in Verantwortung lassen können, sich die Inhalte zu erschließen, die sie haben wollen.
 
+#### Partner
+
+Die besten Ergebnisse erzielt man nicht alleine, sondern im Verbund mit Partnern, so dass sich Kompetenzen ergänzen. Ich habe über die Jahre viel mit Software- und Beratungspartnern gearbeitet und habe einschätzen gelernt, mit welchen Partnern etwas geht und wo nicht. Die Auswahl hier ergibt sich aus der Praxis, ich habe mit jedem Partnerangebot selber schon gearbeitet.
+
+{{% table %}}
+| | |
+|----|----|----|
+| ![Fibery Partner Logo](./fibery.png) | Ersetze den größten Teil eurer IT durch ein einziges Tool 🤹‍♀️ Befreie dich von verstreuten Tools und nutze einfach Fibery für Strategie, Ideation, Roadmapping, Feedback Management und mehr. | https://fibery.io |
+| ![Stackfield Partner Logo](./stackfield.png) | All-in-One Collaboration Tool: Aufgaben, Projekte, Chat, Videokonferenzen, Whiteboards, Dokumente und mehr. Keine Kompromisse beim Datenschutz und Sicherheit. | https://www.stackfield.com |
+{{% /table %}}
+
+
 So in aller die Kürze die Geschichte von SELFSCRUM. Wir freuen uns über euer Feedback!
