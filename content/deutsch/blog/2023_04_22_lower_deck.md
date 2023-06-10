@@ -4,7 +4,7 @@ date = "2023-03-29T00:00:00"
 image = "blog/startrek2.png"
 description = "Der unsichtbare Teil"
 disableComments = true
-draft = false
+draft = true
 author = "martin-jahr"
 avoid_image = false
 +++
