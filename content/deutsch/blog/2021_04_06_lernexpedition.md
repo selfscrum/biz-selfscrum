@@ -21,7 +21,7 @@ In diesem Sinne habe ich die LernExpedition gestaltet. Dabei handelt es sich um 
 
 Damit sind meine Hauptanliegen unterstützt - Konzeptarbeit besser unterstützen und Projektbasiertes Lernen methodisch zu stärken. Es ist kein komplettes How To Handbuch oder ausgearbeitetes pädagogisches Konzept, sondern ein Wegweiser, der zum Experimentieren anleiten soll. Den kann man zum Beispiel nutzen, um sein eigenes Lernkonzept weiter voranzubringen und seine eigenen Lernexpeditionen besser kennenzulernen. Viel Spaß damit!
 
-[Hier](https://raum-fuer-natuerliches-lernen.de/content/lernexpedition-kurz-vorgestellt.pdf) das Übersichtsbild noch einmal als PDF.
+[Hier](https://martin-jahr.de/content/lernexpedition-kurz-vorgestellt.pdf) das Übersichtsbild noch einmal als PDF.
 
 
 

@@ -21,4 +21,4 @@ I designed LearningExpedition with this in mind. This is an agile iterative lear
 
 This supports my main concerns - to better support concept work and to methodically strengthen project-based learning. It is not a complete How To manual or elaborated pedagogical concept, but a guide to experiment. You can use it for example to advance your own learning concept and to get to know your own learning expeditions better. Have fun with it!
 
-[Here](https://raum-fuer-natuerliches-lernen.de/content/learningexpedition-briefly-explained.pdf) the overview image again as PDF.
+[Here](https://martin-jahr.de/content/learningexpedition-briefly-explained.pdf) the overview image as PDF.
