@@ -3,3 +3,4 @@
 public
 _gen
 .frontmatter
+.hugo_build.lock
